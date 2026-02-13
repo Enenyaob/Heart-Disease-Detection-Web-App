@@ -19,9 +19,3 @@ This repository contains a **Flask web application** that allows users to intera
 2. pip install -r requirements.txt
 3. python app.py
 4. Open your browser at http://127.0.0.1:5000/ to start detection.
-
-## Project Structure
-- final_model/          # Saved ML model, scaler, and selected features
-- templates/            # HTML templates for the home page and form
-- static/css/           # CSS files for styling
-- app.py                # Flask application code
