@@ -19,3 +19,5 @@ This repository contains a **Flask web application** that allows users to intera
 2. pip install -r requirements.txt
 3. python app.py
 4. Open your browser at http://127.0.0.1:5000/ to start detection.
+
+You can test the heart disease detection Flask application using the attached **sample dataset (CSV)**, which contains example inputs for all required features.
